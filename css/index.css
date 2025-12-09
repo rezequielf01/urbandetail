@@ -182,7 +182,7 @@ body{
     flex-direction: column;
     align-items: start;
     justify-content: center;
-    width: 350px;
+    width: auto;
     background: oklch(.1 0 0);
     padding: 30px;
     text-align: left;
